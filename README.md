@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Java, and Machine Learning**
 
-- 📫 How to reach me **kuchimanchi.siri@gmail.com**
+- 📫 How to reach me **s.kuchimanchi001@umb.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
