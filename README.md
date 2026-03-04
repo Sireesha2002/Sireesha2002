@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sireesha2002](https://github.com/Sireesha2002)
 
-- 💬 Ask me about **Python, Java, and Machine Learning**
+- 💬 Ask me about **Java, and Web Development**
 
-- 📫 How to reach me **s.kuchimanchi001@umb.edu**
+- 📫 How to reach me **siree.kuchimanchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
